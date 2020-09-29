@@ -1,5 +1,7 @@
 # Taller R BCN
 
+En este repostiorio encontrarás algunas indicaciones iniciales para preparar tu computador para las sesiones que empiezan la próxima semana. 
+
 ## Prepara tu computador
 
 ## Instalación de R y RStudio + RStudio Cloud
@@ -27,7 +29,7 @@ Necesitarás instalar tanto R como RStudio. Para ello, sigue los siguientes paso
 
 #### 1. Instala R
 
-- Puedes descargar R desde https://cran.r-project.org/. Debes elegir la opción que corresponda, según tu sistema operativo.
+Puedes descargar R desde https://cran.r-project.org/. Debes elegir la opción que corresponda, según tu sistema operativo.
 
 <p align="center">
 <img src="imagenes/cran.png" width="600"/>
@@ -39,9 +41,9 @@ Si utilizas Windows, te preguntará qué es lo que quieres instalar. Selecciona 
 <img src="imagenes/windows.png" width="600"/>
 </p>
 
-En el caso de Mac, elige la primera opción que aparece bajo "Laest release", es decir, "R-4.0.2.pkg (notarized and signed)".
+En el caso de Mac, elige la primera opción que aparece bajo "Latest release", es decir, "R-4.0.2.pkg (notarized and signed)".
 
-- Luego, sigue los pasos de instalación, tal como lo haces con cualquier programa.
+Luego, sigue los pasos de instalación, tal como lo haces con cualquier programa.
 
 Si todo sale bien, al abrir R en tu computador deberías ver algo parecido a esto en Windows:
 
@@ -54,6 +56,8 @@ Y en Mac se debería ver así:
 <p align="center">
 <img src="imagenes/r-mac.png" width="600"/>
 </p>
+
+(La información sobre la versión de R y sobre el sistema operativo que aparece en ese mensaje inicial puede que se vea distinto en tu caso.)
 
 #### 2. Instala RStudio
 
